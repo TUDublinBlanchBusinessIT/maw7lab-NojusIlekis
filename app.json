@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "maw7lab-nojusilekis",
+    "slug": "snack-9a3fd23c-c334-4513-b1a5-078b5cead42e",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "github.com/TUDublinBlanchBusinessIT/maw7lab-NojusIlekis @ Nov 4, 2024"
+  }
+}
